@@ -1,0 +1,5 @@
+package utils;
+
+public enum Movement {
+	NONE, UP, DOWN, PITCH_UP, PITCH_DOWN, YAW_LEFT, YAW_RIGHT, STRAFE_LEFT, STRAFE_RIGHT, FORWARD, BACKWARD;
+}
